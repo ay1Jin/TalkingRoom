@@ -32,17 +32,17 @@
 
 2. Video & StudentInfo
 
-<img src="./images/Video.png" alt="Login" style="zoom:40%;" /><img src="./images/StudentInfo.png" alt="Login" style="zoom:50%;" />
+<img src="./images/Video.png" alt="Video" style="zoom:40%;" /><img src="./images/StudentInfo.png" alt="Login" style="zoom:50%;" />
 
 3. Covid Spider & Music Spider
 
-<img src="./images/Covid.png" alt="Login" style="zoom:0%;" />
+<img src="./images/Covid.png" alt="Covid" style="zoom:0%;" />
 
-<img src="./images/Music.png" alt="Login" style="zoom:0%;" />
+<img src="./images/Music.png" alt="Music" style="zoom:0%;" />
 
 4. UserLogs
 
-<img src="./images/Userlogs.png" alt="Login" style="zoom:70%;" />
+<img src="./images/Userlogs.png" alt="Userlogs" style="zoom:0%;" />
 
 ## 最后更新时间
 
