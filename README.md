@@ -14,6 +14,11 @@
 - python==3.6.5
 - git clone https://github.com/ay1Jin/TalkingRoom.git
 - cd TalkingRoom
+- 打开命令行，导入数据库qq.db。如果以下指令不成功，请自行查询导入数据库方法。这里db文件的字符集utf8mb4，排序规则utf8mb4_general_ci。
+  - mysql -u root -p //登录数据库
+  - create database qq;
+  - use qq;
+  - source qq.db;
 - pip install -r requirements.txt
 
 ## 内容：
